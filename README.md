@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://instagram.fcai15-1.fna.fbcdn.net/v/t51.2885-15/fr/e15/s1080x1080/116794531_121090586087234_5538252171759611402_n.jpg?_nc_ht=instagram.fcai15-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=Jx7NIhnKWdkAX_hMv1_&oh=935f4188a87cc75112a6497c9c3899ef&oe=5F565467">
+<img align="right" width="400" height="400" src="https://drive.google.com/file/d/1o5Uec94NMFt7H9GQEHjY9Vp6Z4e4UFN7/view?usp=sharing">
 
 
 # Hi, I'm Mina A. Gergis :elephant:
