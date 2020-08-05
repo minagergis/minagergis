@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://drive.google.com/file/d/1o5Uec94NMFt7H9GQEHjY9Vp6Z4e4UFN7/view?usp=sharing">
+<img align="right" width="400" height="400" src="https://drive.google.com/file/d/1o5Uec94NMFt7H9GQEHjY9Vp6Z4e4UFN7/preview">
 
 
 # Hi, I'm Mina A. Gergis :elephant:
