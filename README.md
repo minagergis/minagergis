@@ -3,9 +3,8 @@
 
 # Hi, I'm Mina A. Gergis :elephant:
 
-Full-Stack | Software engineer :robot:. (In progress)
+Senior Software Engineer :robot: | Software Architect :boom: | AWS Cloud Architect :cloud: | SAAS Developer :credit_card: | DevOps :satellite: . (In progress)
 
-Holberton School Student. :man_technologist:
 
 ## About me 
 
