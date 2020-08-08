@@ -4,17 +4,8 @@
 # Hi, I'm Mina A. Gergis :elephant:
 
 Senior Software Engineer :robot: | Software Architect :boom: | AWS Cloud Architect :cloud: | SAAS Developer :credit_card: | DevOps :satellite: . 
-
+:earth_africa: I'm from Cairo - Egypt
 During my job experience, I had practical skills with interesting technologies, tasks, people. In the whole role of my engineering practice include building and supporting web SaaS solutions based on Linux/Unix platform in a cloud (AWS) and on-premise, experience on server infrastructure migration, monitoring and securing, LAMP, and Linux Server setup/administration. Takes the form part in automating, supporting and to ensure CI/CD in product developing.
-
-## About me 
-
-:heart: Drawing | :black_heart: Hip-Hop | :blue_heart: Programming
-
-- :earth_americas: I'm from Medellin - Colombia
-- :video_game: I like to play video games
-- :gem: I love to customize everything lol
-
 
 ## Social media :mailbox_with_no_mail:
 
