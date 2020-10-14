@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://instagram.fcai15-1.fna.fbcdn.net/v/t51.2885-15/fr/e15/s1080x1080/117110361_339464203888071_2407878298967083586_n.jpg?_nc_ht=instagram.fcai15-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=eivF9s2Z18kAX9QeZNU&oh=3e6f30564cfa510e94d7bed632eaafce&oe=5F56A5C1">
+<img align="right" width="400" height="400" src="https://raw.githubusercontent.com/minagergis/minagergis/master/my-avatar.PNG">
 
 
 # Hi, I'm Mina A. Gergis :elephant:
