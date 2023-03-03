@@ -40,8 +40,7 @@ During my job experience, I had practical skills with interesting technologies, 
   <img width="500" align="top" src="https://github-readme-stats.vercel.app/api?username=minagergis&hide=contribs&count_private=true&theme=dracula&show_icons=true" alt="My GitHub Stats" />
 </a>
 
-<br />
-<br />
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="500" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minagergis&count_private=true&theme=dracula&show_icons=true&hide=css&layout=compact&card_width=495" alt="My Most Used GitHub Languages" />
